@@ -1,0 +1,21 @@
+{
+  "PoemPanic:CreatePanelMokou": {
+    "TEXT": [
+      "?"
+    ]
+  },
+
+  "PoemPanic:PoemPanicReward": {
+    "TEXT": [
+      "Obtain #pPoem #pPanic."
+    ]
+  },
+
+  "PoemPanic:PoemPanicScreen": {
+    "TEXT": [
+      "A poem has been written..."
+    ]
+  }
+}
+
+

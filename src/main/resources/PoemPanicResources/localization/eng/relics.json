@@ -1,0 +1,9 @@
+{
+  "PoemPanic:PoemPanicRelic": {
+    "NAME": "Poem Panic",
+    "FLAVOR": "It's time to write a poem!\nPick words you think your favorite club-member would like.",
+    "DESCRIPTIONS": [
+      "Upon pickup, write a #yPoem. NL Replace all Strike and Defend cards with the words chosen in the #yPoem."
+    ]
+  }
+}
